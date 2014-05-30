@@ -4,7 +4,7 @@ I'm in a situation where my Dockerfile builds locally, but fails on docker.io.
 
 ## boot2docker
 
-I wasn't able to reproduce the build failure on my box, usin `boot2docker`
+I wasn't able to reproduce the build failure on my box, using `boot2docker`
 
 ```
 > docker version
